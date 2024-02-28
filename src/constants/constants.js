@@ -2,7 +2,8 @@ export const projects = [
   {
     title: 'Job-Portal',
     description:"it is a Job portal application using React where you can find and post jobs",
-      tags: [ 'React', 'JavaScript'],
+    image: '/images/Job Portal.png',
+    tags: [ 'React', 'JavaScript'],
     source: 'https://github.com/thomas1y/Job_Portal',
     visit: 'https://job-portal24.vercel.app/ ',
     id: 0,
@@ -27,7 +28,7 @@ export const projects = [
   },
   {
     title: 'airbnb-clone',
-    description: "This is an amazing airbnb-clone React application.Technologies used for this project are React which powers everting,Material UI for some designs,React Router for dynamic routing and React-date-range for choosing dates and date ranges.",
+    description: "This is an amazing airbnb-clone React application.",
     image: '/images/4.png',
     tags: ['React', 'Javascript'],
     source: 'https://github.com/thomas1y/airbnb-clone',
